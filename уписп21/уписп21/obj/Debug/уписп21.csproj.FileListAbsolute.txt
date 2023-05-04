@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\уписп21\уписп21\bin\Debug\уписп21.exe.config
+C:\Users\user\source\repos\уписп21\уписп21\bin\Debug\уписп21.exe
+C:\Users\user\source\repos\уписп21\уписп21\bin\Debug\уписп21.pdb
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.Glavnay.resources
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.Properties.Resources.resources
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.csproj.GenerateResource.cache
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.exe
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.pdb
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.Pacient.resources
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.Tabl_vid_vrach.resources
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.Form2.resources
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.Vrach.resources
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.Spisok.resources
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.DobavZap.resources
+C:\Users\user\source\repos\уписп21\уписп21\obj\Debug\уписп21.DobavLek.resources
